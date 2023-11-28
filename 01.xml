@@ -3,4 +3,5 @@
 <factura>
   <cliente></cliente>
   <total></total>
+  <iva></iva>
 </factura>
